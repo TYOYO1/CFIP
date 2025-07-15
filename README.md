@@ -25,8 +25,10 @@
 - NRT: 东京
 - ORD: 芝加哥
 - SEA: 西雅图
+- SFO: 旧金山
 - SJC: 圣何塞
 - SYD: 悉尼
+- WAW: 华沙
 - YUL: 蒙特利尔
 - YVR: 温哥华
 - YYZ: 多伦多
