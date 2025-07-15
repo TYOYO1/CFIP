@@ -34,7 +34,7 @@
 
 ## CF官方IP（支持13个标准端口切换）
 
-- [CF官方IP地址列表](https://www.cloudflare.com/zh-cn/ips/){target="_blank"}
+- [CF官方IP地址列表](https://www.cloudflare.com/zh-cn/ips/)
 
 IPv4:
 - 173.245.48.0/20
